@@ -1,0 +1,32 @@
+.navbar {
+  /* background-color: var(--color-primary); */
+  background-color: #34C94B;
+  height: 74px;
+  /* width: 100vw; */
+  padding: 0px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.givefeedBtn {
+  width: 170px;
+  background-color: #121212 !important;
+  height: 47px;
+  border-radius: 12px 12px 12px 12px !important;
+  border: 1px 0px 0px 0px !important;
+  gap: 10px;
+  text-transform: capitalize !important;
+  opacity: 1px !important;
+  font-size: 18px !important;
+  color: var(--green) !important;
+  font-family: "Poppins", sans-serif !important;
+  font-weight: 600 !important;
+  /*
+  top: 13px;
+  left: 1238px;
+  gap: 10px;
+  
+ 
+  opacity: 1px; */
+}
